@@ -1,4 +1,7 @@
 package com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.model;
 
-public class StudentType {
+public enum StudentType {
+    ACTIVE,
+    INACTIVE,
+    BLOCKED,
 }

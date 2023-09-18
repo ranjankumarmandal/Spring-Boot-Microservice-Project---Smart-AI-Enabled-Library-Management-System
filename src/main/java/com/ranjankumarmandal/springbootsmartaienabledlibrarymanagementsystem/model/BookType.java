@@ -1,4 +1,7 @@
 package com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.model;
 
-public class BookType {
+public enum BookType {
+    EDUCATIONAL,
+    MOTIVATIONAL,
+    HISTORICAL,
 }
