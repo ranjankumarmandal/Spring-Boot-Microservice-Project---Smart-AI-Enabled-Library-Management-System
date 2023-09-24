@@ -4,6 +4,7 @@ import com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.mod
 import com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.model.Book;
 import com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.repository.AuthorRepository;
 import com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.repository.BookRepository;
+import com.ranjankumarmandal.springbootsmartaienabledlibrarymanagementsystem.request.CreateBookRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
